@@ -1,5 +1,45 @@
+.header {
+   background: #DDD;
+   text-align: center;
+   padding-top: 20px;
+}
+
+.header h1 {
+   margin: 0;
+   font-size: 32px;
+}
+
+.nav {
+   background: #DDD;
+   border-bottom: 1px solid #888;
+}
+
+.nav ul {
+   margin: 2px 10px;
+}
+
+.nav li {
+   display: inline;  
+   padding: 0px 3px;
+   margin: 0px 7px;
+   font-weight: bold;
+}
+
+body.index #menu_index, body.about #menu_about, body.links #menu_links {
+   background: yellow;
+}
+
 .sidebar {
    background: #DDD;
    padding: 20px;
    border-right: 1px solid #888;
+}
+
+.content {
+   padding-top: 20px;
+}
+
+.footer {
+   border-top: 1px solid #888;
+   font-size: smaller;
 }

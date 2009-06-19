@@ -1,2 +1,3 @@
 #!/bin/sh
+./mk-html
 rsync --verbose --archive ./ ibsnr@login.domeneshop.no:www/

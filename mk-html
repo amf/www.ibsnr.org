@@ -1,0 +1,28 @@
+#!/usr/local/ActivePerl-5.8/bin/perl 
+
+use strict;
+use warnings;
+
+use ActiveState::Handy qw(file_content);
+use Text::Markdown qw(markdown);
+
+my $template = file_content("page.tmpl") || die "Can't find page.tmpl";
+
+open(my $f, "find . -name \\*.md -print|");
+while (<$f>) {
+    chomp;
+    my $base = $_;
+    $base =~ s/\.md$//;
+    $base =~ s,.*/,,;
+    my $h = "$base.html";
+    print "Generating $h\n";
+    file_content($h, wrap(markdown(file_content($_)), $base));
+}
+
+sub wrap {
+    my($html, $name) = @_;
+    my $page = $template;
+    $page =~ s/%%PAGE%%/$name/g;
+    $page =~ s/%%CONTENT%%/$html/;
+    return $page;
+}
