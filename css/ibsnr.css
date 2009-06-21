@@ -41,9 +41,7 @@ body.index #menu_index, body.about #menu_about, body.links #menu_links, body.con
 }
 
 .sidebar {
-   background: #DDD;
-   padding: 20px;
-   border-right: 1px solid #888;
+   padding: 20px 15px;
 }
 
 .content {
