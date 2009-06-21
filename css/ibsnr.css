@@ -25,6 +25,11 @@
    font-weight: bold;
 }
 
+.nav a {
+   color: black;
+   text-decoration: none;
+}
+
 body.index #menu_index, body.about #menu_about, body.links #menu_links {
    background: yellow;
 }
