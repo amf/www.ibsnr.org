@@ -42,6 +42,7 @@ body.index #menu_index, body.about #menu_about, body.links #menu_links, body.con
 
 .sidebar {
    padding: 20px 15px;
+   font-weight: bold;
 }
 
 .content {
