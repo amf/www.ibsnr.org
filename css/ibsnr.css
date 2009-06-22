@@ -1,6 +1,6 @@
 .header {
    background: #DDD;
-   background-image: url(../img/header-940.png);
+   background-image: url(../img/header-grad.png);
    margin-top: 20px;
    height: 80px;
    border-bottom: 1px solid #888;
@@ -9,7 +9,6 @@
 .header h1 {
    margin: 0;
    font-size: 32px;
-   margin-left: -10000px;
    text-align: center;
 }
 
