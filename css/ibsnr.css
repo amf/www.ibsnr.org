@@ -1,12 +1,15 @@
 .header {
    background: #DDD;
+   background-image: url(../img/header-940.png);
    text-align: center;
-   padding-top: 20px;
+   margin-top: 20px;
+   height: 64px;
 }
 
 .header h1 {
    margin: 0;
    font-size: 32px;
+   margin-left: -10000px;
 }
 
 .nav {
