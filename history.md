@@ -5,12 +5,12 @@ The Regional Executive Committee (REC) is elected for a period of 2 years which 
 The past Presidents have been:
 
 - 2009-2011 Geir Egil Eide, Norway
-- 2005-2008 Esa Läära, Finland
+- 2005-2008 Esa L√§√§ra, Finland
 - 2001-2004 Mikael Vath, Denmark
 - 1997-2000 Sture Holm, Sweden
 - 1994-1996 Odd Aalen, Norway
 - 1990-1993
-- 1988-1989 Hólmgeir Björnsson, Iceland
+- 1988-1989 H√≥lmgeir Bj√∂rnsson, Iceland
 - 1986-1987 Timo Haukulinen, Finland
 - Niels Kielding, Denmark
 
@@ -26,6 +26,6 @@ Every second year the Rergion shall organize a Regional Biometric conference. Th
 - 2003 Sweden
 - 2001 Savolinna, Finland
 - 1999 Denmark
-- 1997 Ås, Norway
+- 1997 √Ös, Norway
 - 1995 Sweden
  
