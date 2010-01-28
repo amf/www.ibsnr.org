@@ -34,7 +34,7 @@
    text-decoration: none;
 }
 
-body.index #menu_index, body.about #menu_about, body.links #menu_links, body.contact #menu_contact {
+body.index #menu_index, body.about #menu_about, body.history #menu_history, body.links #menu_links, body.contact #menu_contact {
    background: #0170FE;
 }
 
