@@ -45,6 +45,7 @@ body.index #menu_index, body.about #menu_about, body.history #menu_history, body
 
 .content {
    padding-top: 20px;
+   padding-right: 20px;
 }
 
 .footer {
