@@ -17,7 +17,7 @@ The past Presidents have been:
 Regional Meetings
 -----------------
 
-Every second year the Rergion shall organize a Regional Biometric conference. The Executive committee shall appoint a local organizing committee (LOC) and a scientific program committee (SPC) for this conference which shall alternate between the Nordic and Baltic countries.
+Every second year the Region shall organize a Regional Biometric conference. The Executive committee shall appoint a local organizing committee (LOC) and a scientific program committee (SPC) for this conference which shall alternate between the Nordic and Baltic countries.
 
 - 2011 3rd NBBC, Turku, Finland
 - [2009 2nd NBBC, Tartu, Estonia](http://www.ms.ut.ee/NBBC09/)
