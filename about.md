@@ -7,6 +7,8 @@ This period (2009-2011) the IBS Nordic Region President is Geir Egil Eide, Hauke
 
 The countries take turns every second year in leading the Region.
 
+We are in the beginning of the process of joining the Nordic Region with the Baltic Group. Hopefully this will be accomplished at January 1st 2011. We have made a proposition for new [by-laws](IBSNBR_By-Laws.pdf) for after the merge. 
+
 Definition of Biometrics
 ------------------------
 
