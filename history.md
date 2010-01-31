@@ -20,11 +20,11 @@ Regional Meetings
 Every second year the Rergion shall organize a Regional Biometric conference. The Executive committee shall appoint a local organizing committee (LOC) and a scientific program committee (SPC) for this conference which shall alternate between the Nordic and Baltic countries.
 
 - 2011 3rd NBBC, Turku, Finland
-- 2009 2nd NBBC, Tartu, Estonia
-- 2007 1st NBBC, Foulum, Denmark
+- [2009 2nd NBBC, Tartu, Estonia](http://www.ms.ut.ee/NBBC09/)
+- [2007 1st NBBC, Foulum, Denmark](http://www.nbbc07.agrsci.org/)
 - 2005 Oslo, Norway
 - 2003 Sweden
-- 2001 Savolinna, Finland
+- [2001 Savolinna, Finland](http://www.joensuu.fi/statnet/ibs/)
 - 1999 Denmark
 - 1997 Ås, Norway
 - 1995 Sweden
