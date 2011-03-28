@@ -1,18 +1,16 @@
 Past Presidents
 ---------------
 
-The Regional Executive Committee (REC) is elected for a period of 2 years which is automatically prolonged for 2 years unless at least 2 members of the Regional Council propose otherwise. The Regional Executive Committee shall alternate between the Nordic and Baltic countries in the following order; Sweden, Denmark, Finland, Norway/Iceland and the Baltic countries.
-The past Presidents have been:
+The Regional Executive Committee (REC) is elected for a period of 2 years which is automatically prolonged for 2 years unless at least 2 members of the Regional Council propose otherwise. The Regional Executive Committee shall alternate between the Nordic and Baltic countries in the following order; Sweden, Denmark, Finland, Norway/Iceland and the Baltic countries. Niels Keiding has compiled a list of [The Regional Executive Committees 1970–1995](Nordic%20Region%20history.pdf).
 
-- 2009-2011 Geir Egil Eide, Norway
-- 2005-2008 Esa Läära, Finland
-- 2001-2004 Mikael Vath, Denmark
-- 1997-2000 Sture Holm, Sweden
-- 1994-1996 Odd Aalen, Norway
-- 1990-1993
-- 1988-1989 Hólmgeir Björnsson, Iceland
-- 1986-1987 Timo Haukulinen, Finland
-- Niels Kielding, Denmark
+The most recent Presidents have been:
+
+- 2009–2011 Geir Egil Eide, Norway
+- 2005–2008 Esa Läära, Finland
+- 2001–2004 Mikael Vath, Denmark
+- 1997–2000 Sture Holm, Sweden
+- 1994–1996 Odd Aalen, Norway
+
 
 Regional Meetings
 -----------------

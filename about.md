@@ -7,9 +7,13 @@ As effective from 1 January 2009 and according to the traditions the regional bo
 
 The countries take turns every second year in leading the Region.
 
-The Nordic Region has its own Bulletin. You will find the most recent numbers here; [Bulletin No. 1, 2009](IBS-NR-Bulletin-2009-1.pdf) and [Bulletin No. 2, 2009](IBS-NR-Bulletin-2009-2r.pdf).
+The Nordic Region has its own Bulletin. You will find the most recent numbers here:
 
-We are in the beginning of the process of joining the Nordic Region with the Baltic Group. Hopefully this will be accomplished at January 1st 2011. We have made a proposition for new [by-laws](IBSNBR_By-Laws.pdf) for after the merge. 
+- [Bulletin No. 1, 2009](IBS-NR-Bulletin-2009-1.pdf)
+- [Bulletin No. 2, 2009](IBS-NR-Bulletin-2009-2r.pdf)
+- [Bulletin No. 1, 2010](IBS-NR-Bulletin-2010-1.pdf)
+
+January 1st 2011 the Nordic Region and the Baltic Group joined into the Nordic-Baltic Region. We have made new [by-laws](IBSNBR_By-Laws.pdf) after the merge. 
 
 3rd Nordic Baltic Biometric Conference
 --------------------------------------
@@ -24,7 +28,7 @@ Søren Højsgaard (Denmark),
 Ørnulf Borgan (Norway) and
 Jaakko Nevalainen (Finland).
 
-and the Local Organizing Committee (LOC) will be:
+The Local Organizing Committee (LOC) will be:
 Jukka Corander (chair),
 Pasi Korhonen,
 Jaakko Nevalainen and
