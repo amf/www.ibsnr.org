@@ -15,14 +15,15 @@ The most recent Presidents have been:
 Regional Meetings
 -----------------
 
-Every second year the Region shall organize a Regional Biometric conference. The Executive committee shall appoint a local organizing committee (LOC) and a scientific program committee (SPC) for this conference which shall alternate between the Nordic and Baltic countries.
+Every second year the Region shall organize a Regional Biometric Conference. The REC appoints a local organizing committee (LOC) and a scientific program committee (SPC) for this conference which shall alternate between the Nordic and Baltic countries in the following order; Finland, Sweden, Norway/Iceland, Denmark, and the Baltic countries group.
 
-- [2011 3rd NBBC, Turku, Finland](http://www.nbbc11.utu.fi/WebsitePages.htm)
+- 2013 Stockholm, Sweden
+- [2011 3rd NBBC, Turku, Finland](http://www.nbbc11.utu.fi/)
 - [2009 2nd NBBC, Tartu, Estonia](http://www.ms.ut.ee/NBBC09/)
 - [2007 1st NBBC, Foulum, Denmark](http://www.nbbc07.agrsci.org/)
 - 2005 Oslo, Norway
 - 2003 Sweden
-- [2001 Savolinna, Finland](http://www.joensuu.fi/statnet/ibs/)
+- 2001 Savolinna, Finland
 - 1999 Denmark
 - 1997 Ås, Norway
 - 1995 Sweden

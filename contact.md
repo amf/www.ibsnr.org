@@ -1,7 +1,7 @@
 New members
 -----------
 
-If you want to join the Nordic-Baltic Region please contact the secretary [Anne Marie Fenstad](mailto:anne.marie.fenstad@helse-bergen.no).
+If you want to join the Nordic-Baltic Region please contact the treasurer [Ågot Irgens](mailto:agot.irgens@helse-bergen.no).
 
 Membership renewal for 2011 should be completed by March 1st 2011. You have four options (A-D) for your type of Membership. The base rate is 450 NOK (Regular Membership). To receive journals in paper it will cost an additional 50 NOK per journal (Biometrics and JABES). You can choose to receive one of the journals or both.
 
