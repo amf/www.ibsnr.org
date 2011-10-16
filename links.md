@@ -7,6 +7,6 @@ Some useful links
 - [Norsk statistisk forening][4]
 
 [1]: http://tibs.org/
-[2]: http://www.haukeland.no/nrl
+[2]: http://nrlweb.ihelse.net/
 [3]: http://kivik.no/ISCB/wordpress/
 [4]: http://norskstatistiskforening.no
