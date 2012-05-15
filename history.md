@@ -6,7 +6,7 @@ The Regional Executive Committee (REC) is elected for a period of 2 years which 
 The most recent Presidents have been:
 
 - 2009–2012 Geir Egil Eide, Norway
-- 2005–2008 Esa Läära, Finland
+- 2005–2008 Esa Läärä, Finland
 - 2001–2004 Mikael Væth, Denmark
 - 1997–2000 Sture Holm, Sweden
 - 1994–1996 Odd Aalen, Norway
